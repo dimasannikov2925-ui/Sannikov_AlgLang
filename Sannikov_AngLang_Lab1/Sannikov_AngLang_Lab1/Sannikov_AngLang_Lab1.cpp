@@ -1,4 +1,4 @@
-﻿// Sannikov_Lab0.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// Sannikov_AngLang_Lab1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <iostream>
@@ -6,14 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    int a;
-    std::cin >> a;
-    
-    if (a==0)
-        std::cout << "No 0! NElZYA NOL!11\n";
-    else
-        std::cout << 10 / a;
-    return 0;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

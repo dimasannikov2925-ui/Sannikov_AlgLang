@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sannikov_AngLang_Lab1/Sannikov_AngLang_Lab1.vcxproj" />
+</Solution>
